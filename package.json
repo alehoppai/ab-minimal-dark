@@ -17,5 +17,9 @@
         "path": "./themes/AB Minimal (Dark)-color-theme.json"
       }
     ]
+  },
+  "author": {
+    "email": "aleh_belski@outlook.com",
+    "name": "Aleh Belski"
   }
 }
